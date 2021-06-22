@@ -1,13 +1,13 @@
-* {
+/* tells browser to fix box model calculations */* {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Sets background color */
 body {
     background-color: #d9dcd6;
 }
-
+/* Sets styles for navigation bar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,11 +45,14 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Styles END for navigation bar */
+
 
 p {
     font-size: 16px;
 }
 
+/* Hero/Jumbotron styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -57,8 +60,16 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
+/* END styles Hero/Jumbotron */
 
+/* Main sections */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -86,6 +97,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Side bar Section */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -133,7 +145,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* END Side Bar Section Styles */
 
+/* Main sections */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +201,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Main sections END */
 
+/* Footer Style */
 .footer {
     padding: 30px;
     clear: both;
