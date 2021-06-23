@@ -1,6 +1,5 @@
 # Horiseon
-
-![website mockup](/assets/images/horiseon.png)
+![image](https://{https://github.com/brookemadison/urban-octo-telegram/blob/f25e0357f047542b208cd6c96e92559700e06d63/Develop/assets/images/horiseon.png})
 
 ## Description 
 
