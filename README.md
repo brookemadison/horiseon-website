@@ -1,8 +1,6 @@
 # Horiseon
-<img src="urban-octo-telegram/develop/index.html">
-```md
-![website mockup](assets/images/horiseon.png)
-```
+
+![website mockup](/assets/images/horiseon.png)
 
 ## Description 
 
