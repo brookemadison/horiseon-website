@@ -3,20 +3,18 @@
 
 ## Description 
 
-Horiseon is a marketing agency specializing in Search Engine Optimization, Online Reputation Management, Social Media Marketing.
+Horiseon is a marketing agency specializing in Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
 
 The client wanted a codebase that follows accesibilty standards and was optimized for search engines. 
 
-I accomplished this by adding meta description tags and keywords this helps reflect the content of your pages resulting in better search engine optimization. I used semantic elements to not only structure the code making it easier to read and maintain but ensures equal access for people with disabilities.
+I accomplished this by adding meta description tags and keywords this will help reflect the content of the pages resulting in better search engine optimization. I used semantic elements to not only structure the code making it easier to read and maintain but will ensure equal access for people with disabilities.
 
 In this project I used HTML and CSS.
 
-In the futre I hope to be able to add media quieries to make this website more accesible to different screen sizes.
+In the future I hope to be able to add media quieries to make this website more accesible to different screen sizes.
 
 
 ## Table of Contents
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 * [Description](description)
 * [Credits](#credits)
